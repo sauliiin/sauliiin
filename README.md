@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00E0FF&center=true&vCenter=true&width=600&lines=Saulo+Hugo+Rossi;Full-Stack+Developer;Python+%7C+JavaScript+%7C+Digital+Transformation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00E0FF&center=true&vCenter=true&width=900&lines=Saulo+Hugo+Rossi;Full-Stack+Developer;Python+%7C+JavaScript+%7C+Digital+Transformation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,12 +39,12 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
  <img align="right" width=300px alt="Cyber Man" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzExMHhxYW1qeGJjM2dxbGlndWVyY3o5MW9yYWphZThkZnd5cDkxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" />
 
   
-- <img src="https://media.giphy.com/media/XH4j6Dff6N2hfBD41l/giphy.gif" alt="unicornio" width="45">&nbsp;I love: ***Hacking Hardware*** (Switch 🏴‍☠️, Scooters 😅) and ***Movies***
-- <img src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" alt="cat" width="50"> &nbsp;I’m currently working on a `poker gaming platform` at A5 Labs.
-- <img src="https://media.giphy.com/media/H1SUKAcBubpIe2C7AE/giphy.gif" alt="cat" width="50"> &nbsp;I’m currently learning `Advanced Docker`, `pytest`, and `TDD`.
-- <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" alt="cat" width="50"> &nbsp;Looking to collaborate on `Python backend projects`.
-- <img src="https://media.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif" alt="car" width="50"> &nbsp;Ask me anything, I'll be happy to help.
-- <img src="https://media.giphy.com/media/9Jk5uq2FFETYYNtCjg/giphy.gif" alt="cat" width="50"> &nbsp;Fun Fact: I'm on my `third degree` (Law, Sys Analysis, CompSci)!
+* <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hmcG1hNWZ4ZzF5cjg2ZDBpcWtteW9pbXE2bHpjY3JudXBlNTdzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" alt="unicornio" width="45">&nbsp;I love: **Hacking Hardware** (Switch ☠🤫️, Scooters 😅)
+* <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxsanB2NmFscjlkaDltcmR2ZG40aGsyMzdqNXR3b3loOGpuMnVodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.gif" alt="cat" width="50"> &nbsp;I’m really into **video games**! Lately, I’ve been exploring \`SteamOS\`! **Linux**, Yeahhh.
+* <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB5ZWI5MmpwaGp6YWR4ZzQ0OWN0MDV5bHZpMTJ3aHJhNGhqZWR0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/meY5nP8MzuKWdUjV6N/giphy.gif" alt="cat" width="50"> &nbsp;I'm on my **third degree** (Law, Sys Analysis, CompSci)!
+* <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nzb2pjajZxOHpwbjRuNWk1dGhlcHQ5eWt5a2h5djZpY3VpNHNlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AZOhVoqwubReg3WIF8/giphy.gif" alt="cat" width="50"> &nbsp;I’m extremely **curious** and love exploring **any programming language**! I even built my own **"Netflix"**.
+* <img src="https://media.giphy.com/media/9Jk5uq2FFETYYNtCjg/giphy.gif" alt="cat" width="50"> &nbsp;I enjoy **building things** to my own liking. Currently, I’m learning **Android development** to build some **personal apps**!
+* <img src="https://media.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif" alt="car" width="50"> &nbsp;**Ask me anything**, I'll be happy to help.
 
   <hr/>
 <h2 align="center">
