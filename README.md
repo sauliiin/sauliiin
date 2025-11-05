@@ -20,9 +20,7 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
 
 🚀 [Want to see my 2-minute animated story? Check it out!](https://sauliiin.github.io/curriculo_animado_em_2_minutos/en.html)
 
-<svg width="100%" height="3">
-  <rect width="100%" height="3" fill="#555555" />
-</svg>
+<h2 align="center"></h2>
 <h2 align="center">Talking about Personal Stuffs:</h2>
 <h2 align="center"></h2>
 
@@ -35,9 +33,7 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
 * <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3g1bWY1cnp3NnF5eWUyd3NxMTNnMDdjZGJseXpyN3V3Z2xjdDJveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gVYmPx2CxgMqSPXqMD/giphy.gif" alt="android" height="58"> &nbsp;I enjoy **`building things`** to my own liking. Currently, I’m learning **`Android development`** to build some personal apps!
 * <img src="https://media.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif" alt="car" width="65"> &nbsp;**`Ask me anything`**, I'll be happy to help.
   
-<svg width="100%" height="3">
-  <rect width="100%" height="3" fill="#555555" />
-</svg>
+  <hr/>
 <h2 align="center">
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="50"> &nbsp;***My Tech Stack*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Heart" width="50">
 </h2>
@@ -64,6 +60,8 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
   <code> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"> </code>
   <code> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana"> </code>
 </p>
+<hr>
+  
 
 <p align="center">
  <img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>
@@ -74,9 +72,9 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
   <br/>
 </p>
 
-<svg width="100%" height="3">
-  <rect width="100%" height="3" fill="#555555" />
-</svg>
+<hr>
+
+<h2 align="center"></h2>
  <h2 align="center">My Personal Projects</h2>  
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Projects GIF">
@@ -109,9 +107,7 @@ A web app to manage my team's vacations, hybrid work schedules, and office compu
 <i>PS: More projects coming soon! I'm currently working on improving and uploading my non-private repositories.</i>
 </p>
 
-<svg width="100%" height="3">
-  <rect width="100%" height="3" fill="#555555" />
-</svg>
+ <hr>
 <div>
     <img src="https://media.giphy.com/media/1Tfj964yjl7b3PlHBq/giphy.gif" width="40" height="40" alt="parrot gif"/>
     <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40" alt="parrot gif"/>
