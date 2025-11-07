@@ -105,6 +105,12 @@ A web app to manage my team's vacations, hybrid work schedules, and office compu
 🔗 <a href="https://github.com/sauliiin/Managing-vacation-and-hybrid-work">View on GitHub</a>
 <br><br>
 
+🔹 <strong><a href="https://sauliiin.github.io/Managing-vacation-and-hybrid-work/" target="_blank">A Template playground</a></strong><br>
+I wasn’t going to post this since it’s an old school project that’s been reused and changed a lot — and I kind of hate it. I was the backend dev, and the original CSS turned into a mess. Still, I think it’s a good example to teach best practices, so I’ll post and update it to show good web development practices. CSS can look good even with ugly code behind it, and that’s what I dislike about it.<br>
+<code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code>  
+🔗 <a href="[https://github.com/sauliiin/Managing-vacation-and-hybrid-work](https://github.com/sauliiin/conecta)">View on GitHub</a>
+<br><br>
+
 <i>PS: More projects coming soon! I'm currently working on improving and uploading my non-private repositories.</i>
 
 </p>
