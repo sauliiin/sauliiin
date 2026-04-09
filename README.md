@@ -108,6 +108,20 @@ JavaScript • HTML5 • CSS3
 </p>
 <hr>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<hr>
+
+<h2 align="center">PeAcE OuT!</h2>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRkNno3bmlsY2czNnhrcnZjdzBocTJ3N2Z6Z3RuMmdhdzRkZXJneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HJ1ApHM4IrGGDPb2Fb/giphy.gif" width="150" alt="Thank you GIF"/>
+</p>
+
+<h2 align="center">Thanks for visiting!</h2>
 <div>
     <img src="https://media.giphy.com/media/1Tfj964yjl7b3PlHBq/giphy.gif" width="40" height="40" alt="parrot gif"/>
     <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40" alt="parrot gif"/>
@@ -129,9 +143,3 @@ JavaScript • HTML5 • CSS3
     <img src="https://media.giphy.com/media/2vj2ZHc6Y86qriFb6F/giphy.gif" width="40" height="40" alt="parrot gif"/>
 </div>
 <br>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRkNno3bmlsY2czNnhrcnZjdzBocTJ3N2Z6Z3RuMmdhdzRkZXJneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HJ1ApHM4IrGGDPb2Fb/giphy.gif" width="150" alt="Thank you GIF"/>
-</p>
-
-<h2 align="center">Thanks for visiting!</h2>
