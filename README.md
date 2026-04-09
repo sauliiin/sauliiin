@@ -65,16 +65,6 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
 </p>
 <hr>
 
-<p align="center">
- <img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>
-</p>
- 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauliiin&layout=compact&theme=chartreuse-dark" alt="Top Langs"/>
-  <br/>
-</p>
-<hr>
-
 <h2 align="center">My Personal Projects</h2>  
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Projects GIF">
@@ -113,7 +103,7 @@ JavaScript • HTML5 • CSS3
 🔗 <a href="https://github.com/sauliiin/Managing-vacation-and-hybrid-work">View on GitHub</a>
 <br><br>
 
-<i>PS: A lot more on my repo and even more projects coming soon! I'm currently working on improving and uploading my non-private repositories.</i>
+<i>PS: A lot more on my repo and even more projects coming!</i>
 
 </p>
 <hr>
