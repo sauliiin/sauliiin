@@ -65,8 +65,6 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
 </p>
 <hr>
 
-
-
 <p align="center">
  <img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>
 </p>
@@ -76,8 +74,6 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
   <br/>
 </p>
 <hr>
-
-
 
 <h2 align="center">My Personal Projects</h2>  
 <p align="center">
@@ -89,34 +85,38 @@ Always driven by curiosity and a desire to learn new technologies.<br /><br />
 
 🔹 <strong><a href="https://sauliiin.github.io/curriculo_animado_em_2_minutos/" target="_blank">My Animated Resume (My "2-Minute Story")</a></strong><br>
 My personal scrollytelling resume, built from scratch to show, not just tell, my journey.<br>
-<code>JavaScript</code> • <code>GSAP (Animation)</code> • <code>HTML5</code> • <code>CSS3</code>  
+JavaScript • GSAP (Animation) • HTML5 • CSS3
 🔗 <a href="https://github.com/sauliiin/curriculo_animado_em_2_minutos">View on GitHub</a>
 <br><br>
 
+🔹 <strong><a href="https://github.com/sauliiin/JediSender" target="_blank">JediSender</a></strong><br>
+A Windows desktop app to send files and folders to a Steam Deck over SSH, focused on speed, simplicity, and a clean one-click workflow after setup.<br>
+Python • CustomTkinter • SSH/SCP • Windows Automation
+🔗 <a href="https://github.com/sauliiin/JediSender">View on GitHub</a>
+<br><br>
+
+🔹 <strong><a href="https://github.com/sauliiin/interactive-csv-analytics-dashboard" target="_blank">Interactive CSV Analytics Dashboard</a></strong><br>
+An interactive analytics dashboard that turns raw CSV and PDF-derived records into actionable insights with advanced filters, SVG visualizations, and a responsive UI. Visual references and extraction flows were automated with Python using Selenium WebDriver (Chrome) to simulate browser navigation.<br>
+Python • Selenium WebDriver • Data Extraction • Interactive Dashboard • CSV
+🔗 <a href="https://github.com/sauliiin/interactive-csv-analytics-dashboard">View on GitHub</a>
+<br><br>
+
 🔹 <strong><a href="https://github.com/sauliiin/BetterFlix" target="_blank">BetterFlix - Kodi Helpers</a></strong><br>
-An XML-based Kodi skin designed to recreate the look and feel of classic Netflix, powered by a Python helper that integrates external APIs (Trakt, MDBList, TMDB) to fetch reviews, metadata, and play trailers on the fly.<br>
-<code>Python</code> • <code>XML (Kodi Skins)</code> • <code>REST APIs</code>  
+An XML-based Kodi skin designed to recreate the look and feel of classic Netflix, strongly powered by a Python helper that integrates external APIs (Trakt, MDBList, TMDB) to fetch reviews, metadata, and play trailers on the fly.<br>
+Python • XML (Kodi Skins) • REST APIs
 🔗 <a href="https://github.com/sauliiin/BetterFlix">View on GitHub</a>
 <br><br>
 
 🔹 <strong><a href="https://sauliiin.github.io/Managing-vacation-and-hybrid-work/" target="_blank">Team Management Dashboard</a></strong><br>
 A web app to manage my team's vacations, hybrid work schedules, and office computer rotations. Almost completely built in JavaScript, just for fun!<br>
-<code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code>  
+JavaScript • HTML5 • CSS3
 🔗 <a href="https://github.com/sauliiin/Managing-vacation-and-hybrid-work">View on GitHub</a>
 <br><br>
 
-🔹 <strong><a href="https://sauliiin.github.io/conecta/" target="_blank">A Template playground</a></strong><br>
-I wasn’t going to post this since it’s an old school project that’s been reused and changed a lot — and I kind of hate it. I was the backend dev, and the original CSS turned into a mess. Still, I think it’s a good example to teach best practices, so I’ll post and update it to show good web development practices. CSS can look good even with ugly code behind it, and that’s what I dislike about it.<br>
-<code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code>  
-🔗 <a href="https://github.com/sauliiin/conecta">View on GitHub</a>
-<br><br>
-
-<i>PS: More projects coming soon! I'm currently working on improving and uploading my non-private repositories.</i>
+<i>PS: A lot more on my repo and even more projects coming soon! I'm currently working on improving and uploading my non-private repositories.</i>
 
 </p>
 <hr>
-
-
 
 <div>
     <img src="https://media.giphy.com/media/1Tfj964yjl7b3PlHBq/giphy.gif" width="40" height="40" alt="parrot gif"/>
